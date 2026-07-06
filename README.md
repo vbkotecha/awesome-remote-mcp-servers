@@ -60,7 +60,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 | Name | Category | URL | Authentication | Maintainer |
 |------|----------|-------------|----------------|------------|
-| AIServices | Finance \& Crypto | `https://api.aiservices.to/mcp` | Open / x402 | [vbkotecha](https://github.com/vbkotecha) |
+| AgentServices | Finance & Data APIs | `https://api.aiservices.to/mcp` | API Key | [vbkotecha](https://github.com/vbkotecha) |
 | Airtable | Database | `https://mcp.airtable.com/mcp` | OAuth2.1 | [Airtable](https://airtable.com) |
 | Asana | Project Management | `https://mcp.asana.com/sse` | OAuth2.1 | [Asana](https://asana.com) |
 | Audioscrape | RAG-as-a-Service | `https://mcp.audioscrape.com` | OAuth2.1 | [Audioscrape](https://www.audioscrape.com) |
@@ -369,3 +369,4 @@ Join the MCP community to stay updated and connect with other developers:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
